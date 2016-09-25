@@ -18,9 +18,16 @@
   },
   "homepage": "https://github.com/Artiik/node-crud#readme",
   "dependencies": {
+    "body-parser": "^1.15.2",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.3",
+    "dotenv": "^2.0.0",
     "ejs": "^2.5.2",
     "express": "^4.14.0",
-    "express-ejs-layouts": "^2.2.0"
+    "express-ejs-layouts": "^2.2.0",
+    "express-session": "^1.14.1",
+    "express-validator": "^2.20.10",
+    "mongoose": "^4.6.1"
   },
   "devDependencies": {
     "nodemon": "^1.10.2"
